@@ -10,8 +10,4 @@ This repository documents the Extended Entity Relationship model, information fl
 ![alt text](https://github.com/bigbagy/Database-MySQL/blob/master/EER/database2.png
 )
 
-### Normalized Relational Model
-![alt text](https://github.com/bigbagy/Database-MySQL/blob/master/EER/relational%20model.png
-)
-
 
