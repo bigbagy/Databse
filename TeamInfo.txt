@@ -1,0 +1,7 @@
+Team046:
+Yi Wang    email: ywang3405@gatech.edu
+Yi Wang    email: ywang3404@gatech.edu
+Zhibo Wang    email: zwang906@gatech.edu
+Wenwen Zhang    email: wzang410@gatech.edu
+
+SQL Implement: phase3_schema_complete_with_seed.sql in sql folder

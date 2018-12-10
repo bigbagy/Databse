@@ -1,0 +1,18 @@
+[16-Apr-2018 01:43:59 America/Los_Angeles] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\common.php on line 61
+[16-Apr-2018 01:48:23 America/Los_Angeles] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\common.php on line 61
+[16-Apr-2018 01:48:50 America/Los_Angeles] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\common.php on line 61
+[16-Apr-2018 02:00:16 America/Los_Angeles] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\common.php on line 61
+[16-Apr-2018 02:35:41 America/Los_Angeles] PHP Notice:  Undefined variable: result in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\show_queries.php on line 11
+[16-Apr-2018 02:38:09 America/Los_Angeles] PHP Notice:  Undefined variable: result in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\show_queries.php on line 11
+[16-Apr-2018 02:38:38 America/Los_Angeles] PHP Notice:  Undefined variable: result in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\show_queries.php on line 11
+[16-Apr-2018 02:38:49 America/Los_Angeles] PHP Notice:  Undefined variable: result in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\show_queries.php on line 11
+[16-Apr-2018 02:41:14 America/Los_Angeles] PHP Notice:  Undefined index: itemid in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\view_auction_results.php on line 13
+[16-Apr-2018 02:41:14 America/Los_Angeles] PHP Notice:  Undefined variable: user_name in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\view_auction_results.php on line 38
+[16-Apr-2018 02:41:14 America/Los_Angeles] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\view_auction_results.php on line 134
+[16-Apr-2018 02:44:44 America/Los_Angeles] PHP Notice:  Undefined variable: result in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\show_queries.php on line 11
+[16-Apr-2018 02:50:15 America/Los_Angeles] PHP Notice:  Undefined variable: result in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\show_queries.php on line 11
+[16-Apr-2018 02:50:24 America/Los_Angeles] PHP Notice:  Undefined variable: result in D:\Bitnami\wampstack-7.1.16-0\apache2\htdocs\Phase3\lib\show_queries.php on line 11
