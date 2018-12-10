@@ -3,11 +3,11 @@ This repository documents the Extended Entity Relationship model, information fl
 
 ### Information Flow Diagram
 
-![alt text](https://github.com/bigbagy/Database-MySQL/blob/master/EER/database1.png
+![alt text](https://github.com/bigbagy/Databse-MySQL-PHP/blob/master/ifd.png
 )
 
 ### Extended Entity Relational Model
-![alt text](https://github.com/bigbagy/Database-MySQL/blob/master/EER/database2.png
+![alt text](https://github.com/bigbagy/Databse-MySQL-PHP/blob/master/eer.png
 )
 
 
