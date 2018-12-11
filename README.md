@@ -2,7 +2,7 @@
 This repository documents the databse design and implementation for an omline auction site GTbay.
 
 ### Extended Entity Relational Model
-The first part of the project will start from analyzing the business requirement document and conceptualizing processes involved in online bidding, this is modelled using the Extended Entity Relationship model.  
+The first part of the project will start from analyzing the business requirement document and conceptualizing business processes involved in online bidding, this is modelled using the Extended Entity Relationship model.  
 ![alt text](https://github.com/bigbagy/Databse-MySQL-PHP/blob/master/eer.png
 )
 
